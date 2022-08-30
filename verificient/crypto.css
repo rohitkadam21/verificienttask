@@ -1,0 +1,567 @@
+.main-container
+{
+    height: 59px;
+    width: 1042px;
+    float: left;
+    border: 1px solid white;
+    margin-left: 111px;
+    background-color: black;
+    color: beige;
+    box-shadow:  2px 2px 2px 2px #888888;
+}
+.top-div
+{
+    display: flex;
+
+}
+#Ex{
+    margin-left: 33px;
+}
+#trial{
+      padding-left:584px;
+}
+.top-div button
+{
+    height: 36px;
+    margin-top: 16px;
+    width: 89px;
+    text-align: center;
+    margin: left;
+    margin-left: 10px;
+    color: white;
+    background-color: purple;
+}
+.top-div button:hover{
+    color: yellow;
+
+}
+.top-div button:active{
+    background-color: blue;
+
+}
+
+.div-center1{
+
+    border: 1px solid white;
+    margin-top: -600px;
+    width: 493px;
+    display: flex;
+    height: 181px;
+    margin-left: 112px;
+    background-color: black;
+    color: beige;
+    box-shadow:  2px 2px 2px 2px #888888;
+}
+.Bal{
+    margin-left: 20px;
+}
+.Bal input{
+    margin-left:10px;
+    margin-top: 5px;
+    margin-left: 170px;
+    position: absolute;
+    margin-top: 13px;
+    height: 25px;
+    width: 81px;
+    background-color:paleturquoise ;
+}
+.Bal input:hover{
+    color: chocolate;
+}
+.Bal input:active{
+  background-color: burlywood;
+}
+
+.Bal p{
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.value{
+    margin-top: -10px;
+    display: flex;
+    margin-left: 10px;
+
+}
+#Pro{
+    margin-left: 80px;
+}
+#Usd{
+    margin-left: 80px;
+}
+
+
+
+
+
+.div-center2{
+    border: 1px solid white;
+    margin-top: -600px;
+    width: 537px;
+    display: flex;
+    height: 181px;
+    margin-left: 614px;
+    margin-top: -183px;
+    background-color: black;
+    color: beige;
+    box-shadow:  2px 2px 2px 2px #888888;
+
+}
+
+.percen img{
+    margin-top: 18px;
+    margin-left: 48px;
+}
+
+
+.list{
+    color: chocolate;
+    margin-left: 128px;
+    margin-top: 20px;
+}
+.list li2{
+    color: red;
+   
+}
+.list li3{
+    color: cyan;
+   
+}
+
+
+
+
+
+.line3-div1
+{
+    border: 1px solid white;
+    display: flex;
+    float: left;
+    margin-left: 111px;
+    margin-top: 7px;
+    height: 200px;
+    width: 338px;
+    background-color: black;
+    color: beige;
+    box-shadow:  2px 2px 2px 2px #888888;
+
+}
+.chart1 h3
+{
+margin-top: 10px;
+margin-left: 10px;
+}
+.chart1 p
+{
+    position: absolute;
+    margin-left: 272px;
+    margin-top: -30px;
+    font-weight: bold;
+}
+.Gimg1
+{
+    margin-top: 35px;
+    margin-left: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.line3-div2{
+    border: 1px solid white;
+    display: flex;
+    float: left;
+    margin-left: 10px;
+    margin-top: 7px;
+    height: 200px;
+    width: 338px;
+    background-color: black;
+    color: beige;
+    box-shadow:  2px 2px 2px 2px #888888;
+
+
+}
+.chart2 h3
+{
+margin-top: 10px;
+margin-left: 10px;
+}
+.chart2 p
+{
+    position: absolute;
+    margin-left: 272px;
+    margin-top: -30px;
+    font-weight: bold;
+}
+.Gimg2
+{
+    margin-top: 35px;
+    margin-left: 1px;
+}
+.line3-div3{
+    border: 1px solid white;
+    display: flex;
+    float: left;
+    margin-left: 10px;
+    margin-top: 7px;
+    height: 200px;
+    width: 338px;
+    background-color: black;
+    color: beige;
+    box-shadow:  2px 2px 2px 2px #888888;
+
+}
+.chart3 h3
+{
+margin-top: 10px;
+margin-left: 10px;
+}
+.chart3 p
+{
+    position: absolute;
+    margin-left: 272px;
+    margin-top: -30px;
+    font-weight: bold;
+}
+.Gimg3
+{
+    margin-top: 35px;
+    margin-left: 1px;
+}
+
+.line4-div1{
+    border: 1px solid white;
+    display: flex;
+    float: left;
+    margin-left: 111px;
+    margin-top: 7px;
+    height: 200px;
+    width: 658px;
+    box-shadow:  2px 2px 2px 2px #888888;
+}
+.line4-div2{
+    border: 1px solid white;
+    display: flex;
+    float: left;
+    margin-left: 10px;
+    margin-top: 7px;
+    height: 200px;
+    width: 368px;
+    background-color: black;
+    color: beige;
+    box-shadow:  2px 2px 2px 2px #888888;
+}
+.history{
+    float: left;
+    padding-left: 22px;
+    display: inline-flex;
+
+
+}
+.history button
+{
+    height: 24px;
+    margin-top: 19px;
+    margin-left: 157px;
+    color: rgb(131, 21, 131);
+    background: rgba(211, 211, 211, 0.856);
+    font-weight: bold;
+    width: 56px;
+    text-align: center;
+}
+.history button:hover
+{
+    color: chocolate;
+}
+.history button:active{
+        background-color: burlywood;
+    }
+.Buy
+{
+    display: flex;
+    margin-top: 42px;
+    position: relative;
+    right: 80%;
+
+
+}
+.Buy p{
+    margin-left: 179px;
+    margin-top: 32px;
+}
+
+.Sell{
+    display: flex;
+    margin-top: 97px;
+    position: relative;
+    right: 163%;
+
+}
+.Sell p{
+    margin-left: 179px;
+    margin-top: 31px;
+   
+}
+
+.left-div
+{
+    height: 675px;
+    border: 1px solid white;
+    width: 100px;
+    background-color: black;
+    box-shadow:  2px 2px 2px 2px #888888;
+}
+#div-1{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+#div-1 input{
+    height: 27px;
+    width: 81px;
+    background-color:paleturquoise ;
+}
+#div-1 input:hover{
+    color: chocolate;
+}
+#div-1 input:active{
+    background-color: burlywood;
+}
+
+#div-2{
+    margin-top: 50px;
+    margin-left: 10px;
+}
+#div-2 input{
+    height: 27px;
+    width: 81px;
+    background-color:paleturquoise ;
+}
+#div-2 input:hover{
+    color: chocolate;
+}
+#div-2 input:active{
+    background-color: burlywood;
+}
+#div-3{
+    
+    margin-top: 50px;
+    margin-left: 10px;
+}
+#div-3 input{
+    height: 27px;
+    width: 81px;
+    background-color:paleturquoise ;
+}
+#div-3 input:hover{
+    color: chocolate;
+}
+#div-3 input:active{
+    background-color: burlywood;
+}
+#div-4{
+    margin-top: 50px;
+    margin-left: 10px;
+}
+#div-4 input{
+    height: 27px;
+    width: 81px;
+    background-color:paleturquoise ;
+}
+#div-4 input:hover{
+    color: chocolate;
+}
+#div-4 input:active{
+    background-color: burlywood;
+}
+#div-5{
+    margin-top: 50px;
+    margin-left: 10px;
+}
+#div-5 input{
+    height: 27px;
+    width: 81px;
+    background-color:paleturquoise ;
+}
+#div-5 input:hover{
+    color: chocolate;
+}
+#div-5 input:active{
+    background-color: burlywood;
+}
+
+#div-6{
+    margin-top: 50px;
+    margin-left: 10px;
+}
+#div-6 input{
+    height: 27px;
+    width: 81px;
+    background-color:paleturquoise ;
+}
+#div-6 input:hover{
+    color: chocolate;
+}
+#div-6 input:active{
+    background-color: burlywood;
+}
+#div-7{
+    margin-top: 50px;
+    margin-left: 10px;
+}
+#div-7 input{
+    height: 27px;
+    width: 81px;
+    background-color:paleturquoise ;
+}
+#div-7 input:hover{
+    color: chocolate;
+}
+#div-7 input:active{
+    background-color: burlywood;
+}
+
+
+
+#div-8{
+    margin-top: 50px;
+    margin-left: 10px;
+}
+#div-8 input{
+    height: 27px;
+    width: 81px;
+    background-color:paleturquoise ;
+}
+#div-8 input:hover{
+    color: chocolate;
+}
+#div-8 input:active{
+    background-color: burlywood;
+}
+
+
+
+
+
+
+
+.right-div
+{
+    border: 1px solid white;
+    margin-right: 10px;
+    margin-top:  -680px;
+    width: 303px;
+    margin-left: 1159px;
+    height: 675px;
+    float: left;
+    display: flex;
+    background-color: black;
+    color: beige;
+    box-shadow:  2px 2px 2px 2px #888888;
+}
+
+.right-div img{
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-top: 54px;
+  
+}
+.right-div p{
+    float: right;
+    padding-top: 84px;
+    padding-top: 80px;
+    padding-right: 10px;
+
+}
+
+.right-div h3{
+    color: aqua;
+    float: right;
+    padding-right: 42px;
+    margin-top: -49px;
+}
+
+.recent{
+    position: absolute;
+    margin-top: 17px;
+    margin-left: 43px;
+    font-weight: bold;
+}
+#div1{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 20px;
+
+}
+#div2{
+    position: absolute;
+    margin-top: 88px;
+    margin-left: 20px;
+
+}
+#div3{
+    position: absolute;
+    margin-top: 127px;
+    margin-left: 20px;
+
+}
+
+.exchange{
+    position: absolute;
+    font-weight: bold;
+    margin-top: 365px;
+    margin-left: 18px;
+
+}
+
+#USD{
+    color: white;
+    background-color: rgba(143, 142, 142, 0.603);
+    margin-left: 188px;
+    margin-top: -18px;
+    position: absolute;
+}
+#USD:hover{
+    color: chocolate;
+}
+#USD:active{
+    background-color: burlywood;
+}
+
+
+.Msg-box{
+    background-color: blueviolet;
+    margin-right: 49px;
+    margin-left: -14px;
+    margin-top: 23px;
+    height: 200px;
+}
+.Msg-box img{
+    margin-top: -12px;
+    margin-left: 97px;
+}
+.Msg-box b{
+position: absolute;
+padding-top: 97px;
+margin-left: -175px;
+}
+.Msg-box input{
+    margin-top: 37px;
+    margin-left: 96px;
+    border-color: black;
+}
+.Msg-box input:hover
+{
+color: chocolate;
+cursor: pointer;
+
+}
+.Msg-box input:active{
+    background-color: burlywood;
+}
